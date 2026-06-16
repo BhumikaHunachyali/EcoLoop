@@ -12,7 +12,7 @@ export default function Hero() { //creates a component called hero with the foll
       </p>
 
       <button className="mt-8 rounded-lg bg-green-600 px-6 py-3 text-white hover:bg-green-700 transition">
-        Get Started
+        Donate Food
       </button>
 
     </section>
